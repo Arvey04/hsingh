@@ -35,7 +35,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline" >I'm Herjeet Singh.</h1>
-            <h3>I'm a Senior Manager HR at  <span>Akhil Systems Pvt Ltd.</span> I'm Versatile, passionate human resources professional with a history of successful strategic and operational initiatives within start-ups along with well-established multinational corporations..</h3>
+            <h3>I'm Senior Manager HR at  <span>Akhil Systems Pvt Ltd.</span> I'm Versatile, passionate human resources professional with a history of successful strategic and operational initiatives within start-ups along with well-established multinational corporations..</h3>
             <hr />
             <ul className="social">
                {networks}
