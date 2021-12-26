@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name": "Herjeet Singh",
+    "occupation": "Sr. Manager HR at akhil Systems Pvt. Ltd.",
+    "description": " ",
+    "image": "profilepic.jpg",
+    "bio": "I am a flexible, passionate staff professional with a history of successful strategies and applications between startups and well-established international companies.I have KEY COMPETENCIES in Talent Acquisition, Performance Management System, Performance Tuning and Improvement, Performance Appraisals, Compensation and Benefits, Organizational Development, HR Budgeting, Payroll, Statutory Compliance, Employee Engagement, Employee Relations, Training and Development, HR Start-Ups and Contractual Workforce Management",
+    "contactmessage": "You can connect to me by filling this form or contacting me over my Phone number or mail id.",
+    "email": "herjeet.singh@hotmail.com",
+    "phone": "955-555-5555",
+    "address": {
+      "street": "Greater Noida West",
+      "city": "Gautam Buddha Nagar",
+      "state": "Uttar Pradesh",
+      "zip": "201308"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "http://linkedin.com/in/herjeet-singh-82b41a37",
+        "className": "fa fa-linkedin"
+      }
+     
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "Key Competencies",
+    "education": [
+      {
+        "school": "VMO University",
+        "degree": "Master of Business Administration (MBA), Human Resources",
+        "graduated": "2009",
+        "description": "Management/Personnel Administration, General"
+      },
+      {
+        "school": "Sir Hari Singh Gour University",
+        "degree": " Bachelor of Arts - BA, Criminology and Forensic Science",
+        "graduated": "2001",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Akhil Systems Pvt Ltd",
+        "title":"Sr. Manager HR ", 
+        "years": "Jul 2021 - Present",
+        "description": "Akhil Systems Pvt. Ltd. (ASPL) is the leading provider of innovative health information systems and services that transform the administrative and clinical operations of healthcare organizations of all sizes. Our award winning solutions easily simplify decision making, streamline surgical procedures, in addition to make certain compliance along with healthcare standards & practices; in the end saving effort and time to maximize value in addition to profits. We are India’s one of the pioneer Hospital Information System (HIS) companies with around 20 years of experience in the single domain of healthcare. Specialized in delivering management information systems for Hospitals, Medical Colleges, Clinics, Diagnostic Centers and Pharmacy Chains,we have around 150+ projects running across pan India and worldwide."
+      },
+      {
+        "company": "Mobifly",
+        "title": "HR Manager",
+        "years": "May 2018 - Apr 2021",
+        "description": "Handling entire employee life cycle"
+      },
+      {
+        "company": "Healthscion",
+        "title": "HR Manager",
+        "years": "Jul 2014 - Apr 2018",
+        "description": ""
+      },
+      {
+        "company": "Akhil Systems Pvt Ltd",
+        "title": "Senior Executive Human Resources",
+        "years": "Apr 2011 - Jul 2014",
+        "description": ""
+      },
+      {
+        "company": "HCC",
+        "title": "JO Personnel",
+        "years": "Sep 2005 - Dec 2010",
+        "description": "HCC Group delivers world-class engineering & construction services. We are pioneers in the Indian infrastructure industry. Continuing our legacy of innovation, we achieve new milestones with every endeavour. HCC is responsible for landmark projects that have defined the country's progress. Surging ahead with presence in multiple sectors and involvement in revolutionary projects, we are creating opportunities for everyone. HCC Group has a strong commitment towards the safety of the people it interacts and has dealings with and, hence, we take extreme precaution with every piece of infrastructure we build. We believe in possibilities. Every HCC initiative hopes to empower the lives of the people connected to it. The progress of our people powers the progress of our company. Every accomplishment becomes a foundation for us to do better, to dream bigger, and create a better future. Our responsibility, as industry leaders, drives us to be bold and embrace tougher challenges...."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Human Resource",
+        "level": "80%"
+      },
+      {
+        "name": "Employee Engagement",
+        "level": "75%"
+      },
+      {
+        "name": "HR Policies",
+        "level": "60%"
+      },
+      {
+        "name": "Team Management",
+        "level": "90%"
+      }
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "We are Hiring!",
+        "category": "Our #team is growing. We are looking for talented people to jump in, #learn and #grow more with us!We are looking for #potential people with #enthusiasm and #passion to be:",
+        "image": "12.jpg",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:6879030402401484800/"
+      },
+      {
+        "title": "National Pollution Prevention Awareness Month ",
+        "category": "",
+        "image": "1234.jpg",
+        "url": "https://www.linkedin.com/posts/akhil-systems-pvt-ltd-_nationalabrpollutionabrpreventionabrawarenessabrmonth-activity-6877218443209310208-IZ_Y"
+      },
+      {
+        "title": "HIV AIDS Awareness Month,",
+        "category": "",
+        "image": "12345.jpg",
+        "url": "https://www.linkedin.com/posts/akhil-systems-pvt-ltd-_december-hivabraids-awareness-activity-6876411448768159744-thta"
+      },
+      {
+        "title": "Headquartered in New Delhi",
+        "category": "",
+        "image": "123456.jpg",
+        "url": "https://www.linkedin.com/posts/herjeet-singh-82b41a37_headquartered-his-innovative-activity-6876051361419550720-IW05"
+      },
+      {
+        "title": "Speakerthe APAC healthcare event",
+        "category": "",
+        "image": "1234567.jpg",
+        "url": "https://www.linkedin.com/posts/baliharvirk_healthcare-healthcare-event-activity-6872792387060559873-HYYm"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        
+        "text": "Endorsements",
+        "user":""
+      },
+      {
+        
+        "text": "It’s amazing how he always help new employees get up to speed. I am continually impressed by the results you produce!",
+        "user": "Rohit Verma"
+      },
+      {
+        "text": "Your work ethic is out of this world! You have an extremely healthy perspective.",
+        "user": "SK Yadav"
+      },
+      {
+      "text": "You’re so great to work with, Thank you for setting a great example for your coworkers.",
+      "user": "Steve"
+    }
+    ]
+  }
+}
